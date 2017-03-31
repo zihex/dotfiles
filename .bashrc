@@ -1,0 +1,1 @@
+/home/zihe/.bashrc
